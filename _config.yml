@@ -1,21 +1,21 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: albina1810
+title: Albina1810
 description: my personal porfolio.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
-baseurl:  /albina1810.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://albina1810.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
+baseurl:  /Albina1810.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://Albina1810.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /albina1810.github.io/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /Albina1810.github.io/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: albina  # Be used at blog posts' author.
-  first_name: albina  # Be used at index page about me section.
-  last_name: joldassova  # Be used at index page about me section.
+  name: Albina  # Be used at blog posts' author.
+  first_name: Albina  # Be used at index page about me section.
+  last_name: Joldassova  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: albina1810  # Leave blank if you don't have now
+  github_username: Albina1810  # Leave blank if you don't have now
   linkedin_id: albinajoldass # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-database
     - name: icon-mysql-alt
-  desc: Digital marketing professional working in the programmatic and ad tech space. Specializing in audience management (DMP), data management, analysis and visualization. Interested in product innovation and data strategy.  # Describe yourself.
+  desc: An all-time student, passionate about enabling business growth through data, technology, and collaboration  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
