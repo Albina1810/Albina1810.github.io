@@ -11,13 +11,13 @@ img_path: /albina1810.github.io/static/assets/img/blog  # url should be '/homepa
 
 
 # author -- index page "about me" section
-author:  # change following line to your infomation.
+author:  Albina # change following line to your infomation.
   name: Albina  # Be used at blog posts' author.
   first_name: Albina  # Be used at index page about me section.
   last_name: Joldassova  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: Albina1810  # Leave blank if you don't have now
-  linkedin_id: https://www.linkedin.com/in/albinajoldass/ # Leave blank if you don't have now
+  linkedin_id: albinajoldass/ # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
   email:  joldassovaalbina@gmail.com # Leave blank if you don't have now
