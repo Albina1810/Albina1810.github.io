@@ -2,8 +2,8 @@
 
 # Website settings
 
-title: "Albina1810"
-description: "my personal porfolio".
+title: "albina1810"
+description: "my personal porfolio."
 keywords: albina1810,github,gh-pages
 baseurl:  /Albina1810.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://albina1810.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -12,7 +12,7 @@ img_path: /albina1810.github.io/static/assets/img/blog  # url should be '/homepa
 
 
 # author -- index page "about me" section
-author:  Albina # change following line to your infomation.
+  author:  Albina # change following line to your infomation.
   name: Albina  # Be used at blog posts' author.
   first_name: Albina  # Be used at index page about me section.
   last_name: Joldassova  # Be used at index page about me section.
