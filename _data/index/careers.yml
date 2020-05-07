@@ -70,3 +70,30 @@
     i18n: company_d_job
   icon: fa-plus-square
 
+- name:
+    detail: Head of Risk Management
+    i18n: company_d
+  desc:
+    detail: ATF Finance (UniCredit Group)
+    i18n: company_d_desc
+  date:
+    detail: Sep. 2009
+    i18n: company_d_date
+  job:
+    detail: Kazakhstan
+    i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: Risk Manager
+    i18n: company_d
+  desc:
+    detail: Kazkommertsbank
+    i18n: company_d_desc
+  date:
+    detail: Jun. 2007
+    i18n: company_d_date
+  job:
+    detail: Kazakhstan
+    i18n: company_d_job
+  icon: fa-plus-square
