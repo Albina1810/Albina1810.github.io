@@ -16,7 +16,7 @@
   present: true
 
 - name:
-    detail: Institute of Transportation Studies, UC Davis
+    detail: Institute of Transportation Studies UC Davis
     i18n: company_b
   desc:
     detail: Worked as a consultant with the leading research center in the world on sustainable transportation to design growth models for Electric Vehicles (EV) Charging Infrastructure in California
