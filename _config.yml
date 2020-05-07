@@ -2,7 +2,7 @@
 
 # Website settings
 title: Albina1810
-description: my personal porfolio.
+description: "my personal porfolio".
 keywords: albina1810,github,gh-pages
 baseurl:  /Albina1810.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://albina1810.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -29,7 +29,7 @@ author:  Albina # change following line to your infomation.
   skill_icon2:
     - name: icon-database
     - name: icon-mysql-alt
-  desc: An all-time student, passionate about enabling business growth through data, technology, and collaboration.  # Describe yourself.
+  desc: "An all-time student, passionate about enabling business growth through data, technology, and collaboration."  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
