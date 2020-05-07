@@ -1,11 +1,10 @@
 # Welcome to Jekyll!
 
 # Website settings
-
-title: "albina1810"
-description: "my personal porfolio."
+title: albina1810
+description: my personal porfolio.
 keywords: albina1810,github,gh-pages
-baseurl:  /Albina1810.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+baseurl:  /albina1810.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://albina1810.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /albina1810.github.io/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
@@ -13,12 +12,12 @@ img_path: /albina1810.github.io/static/assets/img/blog  # url should be '/homepa
 
 # author -- index page "about me" section
   author:  Albina # change following line to your infomation.
-  name: Albina  # Be used at blog posts' author.
+  name: Albina1810  # Be used at blog posts' author.
   first_name: Albina  # Be used at index page about me section.
   last_name: Joldassova  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: Albina1810  # Leave blank if you don't have now
-  linkedin_id: albinajoldass/ # Leave blank if you don't have now
+  linkedin_id: albinajoldass # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
   email:  joldassovaalbina@gmail.com # Leave blank if you don't have now
