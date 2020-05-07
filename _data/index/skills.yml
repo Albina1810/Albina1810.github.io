@@ -1,6 +1,6 @@
 # skills section data
 
-label: Ability
+label: Technologies/Tools
 id : cs
-aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
-percentage: 100, 35, 65, 80, 70, 90, 50
+aspects: Tableau, SQL, Hive, Python, R, Machine Learing, AWS, Google Cloud
+percentage: 90, 90, 90, 80, 80, 85, 50, 50
