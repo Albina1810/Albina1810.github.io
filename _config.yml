@@ -3,24 +3,23 @@
 # Website settings
 title: albina1810
 description: my personal porfolio.
-keywords: albina1810,github,gh-pages
+keywords: albina1810,Albina,Joldassova,blog,github,gh-pages
 baseurl:  /albina1810.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://albina1810.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /albina1810.github.io/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
-
 # author -- index page "about me" section
-  author:  Albina # change following line to your infomation.
-  name: Albina1810  # Be used at blog posts' author.
+author:  # change following line to your infomation.
+  name: albina1810  # Be used at blog posts' author.
   first_name: Albina  # Be used at index page about me section.
-  last_name: Joldassova  # Be used at index page about me section.
+  last_name: J  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: Albina1810  # Leave blank if you don't have now
   linkedin_id: albinajoldass # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
-  email:  joldassovaalbina@gmail.com # Leave blank if you don't have now
+  email: joldassovaalbina@gmail.com  # Leave blank if you don't have now
   # cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -29,11 +28,11 @@ img_path: /albina1810.github.io/static/assets/img/blog  # url should be '/homepa
   skill_icon2:
     - name: icon-database
     - name: icon-mysql-alt
-  desc: "An all-time student, passionate about enabling business growth through data, technology, and collaboration."  # Describe yourself.
+  desc: An all-time student, passionate about enabling business growth through data, technology, and collaboration.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+  name: albina1810
 
 # analytics
 ## google analytics
@@ -68,5 +67,4 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
 
